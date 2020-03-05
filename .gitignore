@@ -1,2 +1,14 @@
 
-env/
+
+
+#Packages
+__pycache__
+
+# Virtual_environment 
+env
+
+#Visual_Studio_Code
+.vscode/
+
+#Data_base
+*.sqlite3
